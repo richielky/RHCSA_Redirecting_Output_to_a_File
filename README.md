@@ -1,0 +1,2 @@
+# RHCSA_Redirecting_Output_to_a_File
+RHCSA_Redirecting_Output_to_a_File
